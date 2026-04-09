@@ -16,9 +16,9 @@ function App() {
           <img src={viteLogo} className="vite" alt="Vite logo" />
         </div>
         <div>
-          <h1>Get started (Bootcamp)</h1>
+          <h1>Get started (Bootcamp) เวอร์ชัน 2.0.0</h1>
           <p>
-            Edit <code>src/App.tsx</code> and save to test <code>HMR</code>
+            แก้ไข <code>src/App.tsx</code> and save to test <code>HMR</code>
           </p>
         </div>
         <button
